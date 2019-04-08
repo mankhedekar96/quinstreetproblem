@@ -1,5 +1,5 @@
 /**
- * A node for priorioty linked list / stack and such
+ * A node for priority linked list / stack and such
  */
 class PriorityNode {
 	key:number;

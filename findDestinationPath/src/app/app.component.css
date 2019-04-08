@@ -1,3 +1,4 @@
+/* Class for the <ul> element */
 .suggestion-list{
     max-height:200px;
     overflow:hidden;
@@ -12,11 +13,13 @@
     z-index:1020;
 }
 
+/* Class for the <li> element */
 .list-item{
     margin:2px;
     font-size:18px;
 }
 
+/* Class for the <div> element showing path*/   
 .travel-path{
     padding-top: 20px;
     padding-bottom: 20px;
