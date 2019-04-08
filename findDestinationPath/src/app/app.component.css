@@ -1,0 +1,27 @@
+.suggestion-list{
+    max-height:200px;
+    overflow:hidden;
+    overflow-y:scroll !important;
+    position:fixed;
+    background-color: white;
+    border:1px solid grey;
+    border-radius: 3px;
+    margin:10px auto;
+    list-style-type: none;
+    padding-right:10px !important;
+    z-index:1020;
+}
+
+.list-item{
+    margin:2px;
+    font-size:18px;
+}
+
+.travel-path{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    min-height:80px;
+    background-color: rgb(243, 243, 243);
+    border:1px solid grey;
+    border-radius: 3px;
+}

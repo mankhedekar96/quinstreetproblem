@@ -1,0 +1,241 @@
+﻿Abrantes:Plaza Elíptica,Pan Bendito
+Acacias:Puerta de Toledo,Pirámides
+Aeropuerto T1-T2-T3:Campo de las Naciones,Barajas
+Aeropuerto T4:Barajas
+Alameda de Osuna:El Capricho
+Alcorcón Central:Parque Lisboa,Parque Oeste
+Alfonso XIII:Prosperidad,Avenida de la Paz
+Almendrales:Hospital 12 de Octubre,Legazpi
+Alonso Cano:Gregorio Marañón,Canal
+Alonso de Mendoza:Conservatorio,Getafe Central
+Alonso Martínez:Bilbao,Colón,Rubén Darío,Chueca,Gregorio Marañón,Tribunal
+Alsacia:Avenida de Guadalajara,La Almudena
+Alto de Extremadura:Puerta del Ángel,Lucero
+Alto del Arenal:Buenos Aires,Miguel Hernández
+Aluche:Eugenia de Montijo,Empalme
+Alvarado:Estrecho,Cuatro Caminos
+Antón Martín:Tirso de Molina,Atocha
+Antonio Machado:Valdezarza,Peñagrande
+Arganda del Rey:La Poveda
+Arganzuela-Planetario:Legazpi,Méndez Álvaro
+Argüelles:Ventura Rodríguez,Moncloa,San Bernardo,Moncloa,Príncipe Pío
+Arroyo Culebro:Parque de los Estados,Conservatorio
+Artilleros:Vinateros,Pavones
+Arturo Soria:Avenida de la Paz,Esperanza
+Ascao:García Noblejas,Pueblo Nuevo
+Atocha:Antón Martín,Atocha Renfe
+Atocha Renfe:Atocha,Menéndez Pelayo
+Avenida de América:Diego de León,Prosperidad,Diego de León,República Argentina,Cartagena,Gregorio Marañón,Cruz del Rayo,Núñez de Balboa
+Avenida de Guadalajara:Las Rosas,Alsacia
+Avenida de la Ilustración:Peñagrande,Lacoma
+Avenida de la Paz:Alfonso XIII,Arturo Soria
+Aviación Española:Colonia Jardín,Cuatro Vientos
+Bambú:Pinar de Chamartín,Chamartín
+Banco de España:Retiro,Sevilla
+Barajas:Aeropuerto T1-T2-T3,Aeropuerto T4
+Barrio de la Concepción:Pueblo Nuevo,Parque de las Avenidas
+Barrio del Pilar:Herrera Oria,Ventilla
+Barrio del Puerto:Coslada Central,Estadio Olímpico
+Batán:Lago,Casa de Campo
+Baunatal:Reyes Católicos,Manuel de Falla
+Begoña:Fuencarral,Chamartín
+Bilbao:Iglesia,Tribunal,San Bernardo,Alonso Martínez
+Buenos Aires:Portazgo,Alto del Arenal
+Callao:Vodafone Sol,Plaza de España,Gran Vía,Ópera
+Campamento:Empalme,Casa de Campo
+Campo de las Naciones:Mar de Cristal,Aeropuerto T1-T2-T3
+Canal:Quevedo,Cuatro Caminos,Alonso Cano,Islas Filipinas
+Canillas:Esperanza,Mar de Cristal
+Canillejas:El Capricho,Torres Arias
+Carabanchel:Vista Alegre,Eugenia de Montijo
+Carabanchel Alto:San Francisco,La Peseta
+Carpetana:Laguna,Oporto
+Cartagena:Parque de las Avenidas,Avenida de América
+Casa de Campo:Campamento,Batán,Colonia Jardín
+Casa del Reloj:Julián Besteiro,Hospital Severo Ochoa
+Chamartín:Bambú,Plaza de Castilla,Begoña,Plaza de Castilla
+Chueca:Alonso Martínez,Gran Vía
+Ciudad de los Ángeles:Villaverde Bajo Cruce,San Fermín-Orcasur
+Ciudad Lineal:Suanzes,Pueblo Nuevo
+Ciudad Universitaria:Metropolitano,Moncloa
+Colombia:Nuevos Ministerios,Pinar del Rey,Pío XII,Concha Espina
+Colón:Alonso Martínez,Serrano
+Colonia Jardín:Casa de Campo,Aviación Española
+Concha Espina:Colombia,Cruz del Rayo
+Conde de Casal:Pacífico,Sainz de Baranda
+Congosto:Villa de Vallecas,La Gavia
+Conservatorio:Arroyo Culebro,Alonso de Mendoza
+Coslada Central:La Rambla,Barrio del Puerto
+Cruz del Rayo:Concha Espina,Avenida de América
+Cuatro Caminos:Alvarado,Ríos Rosas,Canal,Nuevos Ministerios,Guzmán el Bueno
+Cuatro Vientos:Aviación Española,Joaquín Vilumbrales
+Cuzco:Plaza de Castilla,Santiago Bernabéu
+Delicias:Legazpi,Palos de la Frontera
+Diego de León:Lista,Avenida de América,Ventas,Núñez de Balboa,Manuel Becerra,Avenida de América
+Duque de Pastrana:Plaza de Castilla,Pío XII
+El Bercial:Los Espartales,El Carrascal
+El Capricho:Alameda de Osuna,Canillejas
+El Carmen:Quintana,Ventas
+El Carrascal:El Bercial,Julián Besteiro
+El Casar:Juan de la Cierva,Los Espartales
+Embajadores:Palos de la Frontera,Lavapiés
+Empalme:Aluche,Campamento
+Esperanza:Arturo Soria,Canillas
+Estadio Olímpico:Barrio del Puerto,Las Musas
+Estrecho:Tetuán,Alvarado
+Estrella:Sainz de Baranda,Vinateros
+Eugenia de Montijo:Carabanchel,Aluche
+Francos Rodríguez:Guzmán el Bueno,Valdezarza
+Fuencarral:Tres Olivos,Begoña
+Fuenlabrada Central:Parque Europa,Parque de los Estados
+García Noblejas:Simancas,Ascao
+Getafe Central:Alonso de Mendoza,Juan de la Cierva
+Goya:Manuel Becerra,Príncipe de Vergara,Velázquez,Lista
+Gran Vía:Tribunal,Vodafone Sol,Chueca,Callao
+Gregorio Marañón:Avenida de América,Alonso Cano,Nuevos Ministerios,Alonso Martínez
+Guzmán el Bueno:Cuatro Caminos,Metropolitano,Islas Filipinas,Francos Rodríguez
+Henares:Hospital del Henares,Jarama
+Herrera Oria:Mirasierra,Barrio del Pilar
+Hortaleza:Parque de Santa María,Manoteras
+Hospital 12 de Octubre:San Fermín-Orcasur,Almendrales
+Hospital de Fuenlabrada:Loranca,Parque Europa
+Hospital de Móstoles:Pradillo,Manuela Malasaña
+Hospital del Henares:Henares
+Hospital Infanta Sofía:Reyes Católicos
+Hospital Severo Ochoa:Casa del Reloj,Leganés Central
+Ibiza:Príncipe de Vergara,Sainz de Baranda
+Iglesia:Ríos Rosas,Bilbao
+Islas Filipinas:Canal,Guzmán el Bueno
+Jarama:Henares,San Fernando
+Joaquín Vilumbrales:Cuatro Vientos,Puerta del Sur
+Juan de la Cierva:Getafe Central,El Casar
+Julián Besteiro:El Carrascal,Casa del Reloj
+La Almudena:Alsacia,La Elipa
+La Elipa:La Almudena,Ventas
+La Fortuna:La Peseta
+La Gavia:Congosto,Las Suertes
+La Granja:La Moraleja,Ronda de la Comunicación
+La Latina:Ópera,Puerta de Toledo
+La Moraleja:Marqués de la Valdavia,La Granja
+La Peseta:Carabanchel Alto,La Fortuna
+La Poveda:Rivas Vaciamadrid,Arganda del Rey
+La Rambla:San Fernando,Coslada Central
+Lacoma:Avenida de la Ilustración,Pitis
+Lago:Príncipe Pío,Batán
+Laguna:Carpetana
+Las Musas:Estadio Olímpico,San Blas
+Las Rosas:Avenida de Guadalajara
+Las Suertes:La Gavia,Valdecarros
+Las Tablas:Ronda de la Comunicación,Montecarmelo
+Lavapiés:Embajadores,Vodafone Sol
+Leganés Central:Hospital Severo Ochoa,San Nicasio
+Legazpi:Almendrales,Delicias,Usera,Arganzuela-Planetario
+Lista:Goya,Diego de León
+Loranca:Manuela Malasaña,Hospital de Fuenlabrada
+Los Espartales:El Casar,El Bercial
+Lucero:Alto de Extremadura
+Manoteras:Hortaleza,Pinar de Chamartín
+Manuel Becerra:Ventas,Goya,O'Donnell,Diego de León
+Manuel de Falla:Baunatal,Marqués de la Valdavia
+Manuela Malasaña:Hospital de Móstoles,Loranca
+Mar de Cristal:Canillas,San Lorenzo,Pinar del Rey,Campo de las Naciones
+Marqués de la Valdavia:Manuel de Falla,La Moraleja
+Marqués de Vadillo:Pirámides,Urgel
+Méndez Álvaro:Arganzuela-Planetario,Pacífico
+Menéndez Pelayo:Atocha Renfe,Pacífico
+Metropolitano:Guzmán el Bueno,Ciudad Universitaria
+Miguel Hernández:Alto del Arenal,Sierra de Guadalupe
+Mirasierra:Herrera Oria
+Moncloa:Argüelles,Ciudad Universitaria,Argüelles
+Montecarmelo:Las Tablas,Tres Olivos
+Móstoles Central:Universidad Rey Juan Carlos,Pradillo
+Noviciado:Santo Domingo,San Bernardo
+Nueva Numancia:Puente de Vallecas,Portazgo
+Nuevos Ministerios:República Argentina,Cuatro Caminos,Colombia,Santiago Bernabéu,Gregorio Marañón
+Núñez de Balboa:Diego de León,Rubén Darío,Avenida de América,Príncipe de Vergara
+O'Donnell:Sainz de Baranda,Manuel Becerra
+Opañel:Oporto,Plaza Elíptica
+Opera:Príncipe Pío
+Ópera:Vodafone Sol,Santo Domingo,Callao,La Latina
+Oporto:Urgel,Vista Alegre,Carpetana,Opañel
+Pacífico:Menéndez Pelayo,Puente de Vallecas,Méndez Álvaro,Conde de Casal
+Palos de la Frontera:Delicias,Embajadores
+Pan Bendito:Abrantes,San Francisco
+Parque de las Avenidas:Barrio de la Concepción,Cartagena
+Parque de los Estados:Fuenlabrada Central,Arroyo Culebro
+Parque de Santa María:San Lorenzo,Hortaleza
+Parque Europa:Hospital de Fuenlabrada,Fuenlabrada Central
+Parque Lisboa:Puerta del Sur,Alcorcón Central
+Parque Oeste:Alcorcón Central,Universidad Rey Juan Carlos
+Pavones:Artilleros,Valdebernardo
+Peñagrande:Antonio Machado,Avenida de la Ilustración
+Pinar de Chamartín:Bambú,Manoteras
+Pinar del Rey:Colombia,Mar de Cristal
+Pío XII:Duque de Pastrana,Colombia
+Pirámides:Acacias,Marqués de Vadillo
+Pitis:Lacoma
+Plaza de Castilla:Chamartín,Valdeacederas,Ventilla,Duque de Pastrana,Chamartín,Cuzco
+Plaza de España:Callao,Ventura Rodríguez,Tribunal,Príncipe Pío
+Plaza Elíptica:Opañel,Usera,Abrantes
+Portazgo:Nueva Numancia,Buenos Aires
+Pradillo:Móstoles Central,Hospital de Móstoles
+Príncipe de Vergara:Goya,Retiro,Núñez de Balboa,Ibiza
+Príncipe Pío:Argüelles,Puerta del Ángel,Plaza de España,Lago,Opera
+Prosperidad:Avenida de América,Alfonso XIII
+Pueblo Nuevo:Ciudad Lineal,Quintana,Ascao,Barrio de la Concepción
+Puente de Vallecas:Pacífico,Nueva Numancia
+Puerta de Arganda:San Cipriano,Rivas Urbanizaciones
+Puerta de Toledo:La Latina,Acacias
+Puerta del Ángel:Príncipe Pío,Alto de Extremadura
+Puerta del Sur:Joaquín Vilumbrales,Parque Lisboa
+Quevedo:San Bernardo,Canal
+Quintana:Pueblo Nuevo,El Carmen
+República Argentina:Avenida de América,Nuevos Ministerios
+Retiro:Príncipe de Vergara,Banco de España
+Reyes Católicos:Hospital Infanta Sofía,Baunatal
+Ríos Rosas:Cuatro Caminos,Iglesia
+Rivas Futura:Rivas Urbanizaciones,Rivas Vaciamadrid
+Rivas Urbanizaciones:Puerta de Arganda,Rivas Futura
+Rivas Vaciamadrid:Rivas Futura,La Poveda
+Ronda de la Comunicación:La Granja,Las Tablas
+Rubén Darío:Núñez de Balboa,Alonso Martínez
+Sainz de Baranda:Conde de Casal,O'Donnell,Ibiza,Estrella
+San Bernardo:Noviciado,Quevedo,Argüelles,Bilbao
+San Blas:Las Musas,Simancas
+San Cipriano:Vicálvaro,Puerta de Arganda
+San Cristobal:Villaverde Alto,Villaverde Bajo Cruce
+San Fermín-Orcasur:Ciudad de los Ángeles,Hospital 12 de Octubre
+San Fernando:Jarama,La Rambla
+San Francisco:Pan Bendito,Carabanchel Alto
+San Lorenzo:Mar de Cristal,Parque de Santa María
+San Nicasio:Leganés Central
+Santiago Bernabéu:Cuzco,Nuevos Ministerios
+Santo Domingo:Ópera,Noviciado
+Serrano:Colón,Velázquez
+Sevilla:Banco de España,Vodafone Sol
+Sierra de Guadalupe:Miguel Hernández,Villa de Vallecas
+Simancas:San Blas,García Noblejas
+Suanzes:Torres Arias,Ciudad Lineal
+Tetuán:Valdeacederas,Estrecho
+Tirso de Molina:Vodafone Sol,Antón Martín
+Torres Arias:Canillejas,Suanzes
+Tres Olivos:Montecarmelo,Fuencarral
+Tribunal:Bilbao,Gran Vía,Alonso Martínez,Plaza de España
+Universidad Rey Juan Carlos:Parque Oeste,Móstoles Central
+Urgel:Marqués de Vadillo,Oporto
+Usera:Plaza Elíptica,Legazpi
+Valdeacederas:Plaza de Castilla,Tetuán
+Valdebernardo:Pavones,Vicálvaro
+Valdecarros:Las Suertes
+Valdezarza:Francos Rodríguez,Antonio Machado
+Velázquez:Serrano,Goya
+Ventas:La Elipa,Manuel Becerra,El Carmen,Diego de León
+Ventilla:Barrio del Pilar,Plaza de Castilla
+Ventura Rodríguez:Plaza de España,Argüelles
+Vicálvaro:Valdebernardo,San Cipriano
+Villa de Vallecas:Sierra de Guadalupe,Congosto
+Villaverde Alto:San Cristobal
+Villaverde Bajo Cruce:San Cristobal,Ciudad de los Ángeles
+Vinateros:Estrella,Artilleros
+Vista Alegre:Oporto,Carabanchel
+Vodafone Sol:Gran Vía,Tirso de Molina,Sevilla,Ópera,Lavapiés,Callao
