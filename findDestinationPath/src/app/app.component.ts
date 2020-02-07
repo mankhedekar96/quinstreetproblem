@@ -1,6 +1,7 @@
 import { Component, OnInit } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
 import { Dijkstra } from "src/app/graph";
+import { stations } from "./data";
 
 @Component({
   selector: "app-root",
@@ -78,9 +79,7 @@ export class AppComponent implements OnInit {
 
   // This function fetches data from the api
   getData() {
-    this.http.get("http://localhost:4000/getStations").subscribe(
-      (res: any) => {
-        this.stationsText = res.textData; // data from the api
+        this.stationsText = stations.textData; // data from the api
         this.stationsText.split("\n").forEach(station => {
           let name = station.split(":")[0].trim();
           let connectedStations = {};
@@ -96,10 +95,5 @@ export class AppComponent implements OnInit {
         });
         this.filteredStationList = Array.from(this.stationsList); // Made array list
         this.filteredStationList.sort();
-      },
-      err => {
-        console.log("Error in API", err);
-      }
-    );
   }
 }
