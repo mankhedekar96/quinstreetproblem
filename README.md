@@ -2,7 +2,7 @@
 
 The problem statement was an assignment for compnay named Quinstreet.
 
-They provided a text file with metro stations names from city Real Madrid.
+They provided a text file with metro stations names from city Madrid and wanted two find shortest path between two different cities.
 
 Created a backend using express and node to serve that file.
 
