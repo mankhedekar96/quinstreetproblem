@@ -1,0 +1,30 @@
+<div class="container">
+  <!-- Form for the pathfinder -->
+  <div class="form">
+    <h1>QuinStreet Pathfinder</h1>
+    <div class="form-row">
+      <div class="col">
+        <input type="text" class="form-control" [(ngModel)]="source" placeholder="Please select a station" (focus)="sourceSuggestion=true">
+        <ul class="suggestion-list" *ngIf="sourceSuggestion">
+          <li class="list-item" *ngFor="let station of filteredStationList  | filter : source" (click)="setValue('source',station)" >{{station}}</li>
+        </ul>
+      </div>
+      <div class="col">
+        <input type="text" class="form-control" [(ngModel)]="destination" placeholder="Please select a station" (focus)="destinationSuggestion=true">
+        <ul class="suggestion-list" *ngIf="destinationSuggestion">
+          <li class="list-item" *ngFor="let station of filteredStationList | filter : destination" (click)="setValue('destination',station)" >{{station}}</li>
+        </ul>
+      </div>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3" (click)="showPath()">Find Path</button>
+  </div>
+
+  <!-- Path in the div -->
+  <div *ngIf="travelStations.length>0" class="mt-4 row travel-path">
+    <div class="col-sm-4" *ngFor="let station of travelStations; let i = index">
+      <span class="badge badge-info mr-2">{{i+1}} </span>
+      <span class="badge badge-success"> {{station}}</span>
+    </div>
+  </div>
+</div>
+
